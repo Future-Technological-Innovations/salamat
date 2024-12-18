@@ -24,7 +24,7 @@
  border-radius:10px ;
  margin:10px ;
  transition:0.7s ease ;
- box-shadow: 0 5px 25px rgba(243, 46, 46, 0.5);
+ box-shadow: 0 5px 25px rgba(26, 194, 4, 0.5);
 }
 .project-card:hover{
     transform: scale(1.1);
