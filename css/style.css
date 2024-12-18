@@ -1,0 +1,77 @@
+
+.projects{
+    background-color: rgb(221, 231, 225);
+   
+
+
+}
+
+.projects , .content{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.project-card{
+ background-color: aliceblue;
+ border: 3px solid rgb(196, 184, 162);
+ min-height: 14em;
+ width: 0em;
+ overflow: hidden;
+ border-radius:10px ;
+ margin:10px ;
+ transition:0.7s ease ;
+ box-shadow: 0 5px 25px rgba(243, 46, 46, 0.5);
+}
+.project-card:hover{
+    transform: scale(1.1);
+}
+
+.project-image img{
+    width: 100%;
+}
+.project-card:hover .project-image{
+   opacity: 0.9;
+}
+
+.project-info{
+
+ padding: 1em;   
+
+}
+.project-catogery{
+font-size: 0.8em;
+color: aquamarine;
+}
+
+.project-title{
+     display: flex;
+     justify-content: space-between;
+     text-transform: uppercase;
+     font-weight: 500px;
+     margin-top: 10px;
+}
+
+.more-details{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.more-details:hover{
+    color: red;
+}
+
+.em{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.content .icon{
+    font-size: 4.5em;
+
+}
+
+.content .info p{
+    font-size: 1.1em;
+}
