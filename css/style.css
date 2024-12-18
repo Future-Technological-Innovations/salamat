@@ -1,4 +1,7 @@
-
+.content{
+    display: flex;
+    
+}
 .projects{
     background-color: rgb(221, 231, 225);
    
