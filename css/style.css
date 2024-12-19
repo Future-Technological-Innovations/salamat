@@ -1,6 +1,6 @@
 .content{
     display: flex;
-    flex-wrap: wrap;
+    
 }
 .projects{
     background-color: rgb(221, 231, 225);
