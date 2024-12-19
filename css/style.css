@@ -5,8 +5,8 @@
 }
 .projects{
     background-color: rgb(221, 231, 225);
-    display: flex;
-    flex-wrap: wrap;
+  /*  display: flex;
+    flex-wrap: wrap;*/
 
 
 }
