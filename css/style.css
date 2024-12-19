@@ -11,13 +11,13 @@
 
 }
 
-.projects , .content{
+/*.projects , .content{
     margin-top: 0px;
     display: flex;
     flex-direction: row-reverse;
    
     
-}
+}*/
 .project-card{
  background-color: aliceblue;
  border: 3px solid rgb(196, 184, 162);
