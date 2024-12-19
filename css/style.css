@@ -1,28 +1,25 @@
+
+
+
 .content{
     display: flex;
     flex-wrap: wrap;
-    
-}
-.projects{
-    background-color: rgb(221, 231, 225);
-    display: flex;
-    flex-wrap: wrap;
 
 
-}
 
-/*.projects , .content{
+
+.projects
+{
     margin-top: 0px;
     display: flex;
-    flex-direction: row-reverse;
-   
-    
-}*/
+   flex-wrap: wrap;
+
+}
 .project-card{
  background-color: aliceblue;
- border: 3px solid rgb(196, 184, 162);
+ border: 3px solid rgb(6, 196, 47);
  min-height: 14em;
- width: 0em;
+ width: 17em;
  overflow: hidden;
  border-radius:10px ;
  margin:10px ;
