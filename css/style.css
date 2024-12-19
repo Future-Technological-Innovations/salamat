@@ -5,16 +5,16 @@
 }
 .projects{
     background-color: rgb(221, 231, 225);
-  /*  display: flex;
-    flex-wrap: wrap;*/
+    display: flex;
+    flex-wrap: wrap;
 
 
 }
 
-/*.projects , .content{
+.projects , .content{
     margin-top: 0px;
     display: flex;
-    flex-direction: row-reverse;*/
+    flex-direction: row-reverse;
    
     
 }
